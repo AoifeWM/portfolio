@@ -1,2 +1,3 @@
-# portfolio
-portfolio in react
+# Modify this portfolio
+
+Make it your own! 
