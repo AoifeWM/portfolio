@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Aoife Mulligan",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Frontend Software Developer Studying at CodeFellows" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/AoifeWM",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/aoife-mulligan-b3a821220/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
